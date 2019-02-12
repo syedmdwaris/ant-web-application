@@ -22,7 +22,7 @@ public class SampleController {
 		js.put("Name", "Mithun Reddy");
 		js.put("Calling Name", "Munna");
 		js.put("DOB", "08-Nov-2011");
-		js.put("Hobbies", "Drawing, Dancing");
+		js.put("Hobbies", "Drawing, Dancing, Reading");
 		js.put("Places he like", "His native place");
 
 		return js.toString();
